@@ -8,8 +8,8 @@
 
     // Arreglos con diferentes tipos
     let arr3 = [2, 'hola', true] // Inferido
-    let arr4: (number | string | boolean | object)[] = ['hola', 9, false];
-
+    let arr4: (number | string | boolean | object)[] = ['hola', 9, false]; // Explicito
+ 
     // Tuplas
     let tuplas: [string, boolean, number] = ['hola', true, 94];
 })()
