@@ -4,6 +4,7 @@
     productPrice = 20;
     console.log('productPrice', productPrice);
 
+
     // Explicito
     let customerAge: number = 28;
     // ERROR
